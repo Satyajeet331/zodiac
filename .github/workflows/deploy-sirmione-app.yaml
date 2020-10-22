@@ -48,5 +48,5 @@ jobs:
       with: 
         app-name: ${{env.SIRMIONE_ALIAS}}-web
         package: ${{env.DOTNET_ROOT}}/myapp   
-       
+       #test
     
